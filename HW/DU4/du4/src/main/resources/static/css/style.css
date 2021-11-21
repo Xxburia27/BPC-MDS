@@ -1,0 +1,28 @@
+body{
+    background: white;
+}
+.urlBox{
+    text-align: left;
+    width: 40%;
+    height: 40px;
+    border-style: solid;
+    border-color: black;
+    color: black;
+}
+#button.urlBox{
+    text-align: center;
+    width: 70px;
+    height: 45px;
+}
+#noInput{
+    font-size: 300%;
+    color: red;
+    text-align: center;
+}
+#videoBox{
+    text-align: center;
+}
+.content{
+    height: 50%;
+    width: 50%;
+}
